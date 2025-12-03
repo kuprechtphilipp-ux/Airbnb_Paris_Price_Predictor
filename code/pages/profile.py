@@ -3,7 +3,7 @@ import json
 import os
 
 # Paths for JSON files
-PROFILE_DATA_PATH = "data/profiles.json"
+PROFILE_DATA_PATH = "code/data/profiles.json"
 
 # Ensure the data folder exists
 if not os.path.exists("data"):
